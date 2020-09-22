@@ -1,2 +1,2 @@
-# b32
-universal odometer arduino tiny85
+В разработке
+Универсальный одометр на базе адруино tiny85 + oled 1.3 (i2c)
